@@ -1,7 +1,6 @@
 # About
 
-- In this repository, I will add my practice codes.
-- 
+> In this repository, I will add my practice codes.
 
 
 
